@@ -10,7 +10,7 @@ export default function AboutUs() {
           <p className="uppercase text-sm md:text-base tracking-[0.25em] text-[#a16a52]">
             About Us
           </p>
-          <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-light text-[#1a1a1a] leading-snug">
+          <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl  text-[#1a1a1a] leading-snug">
             Your Finest Coffee <br /> Served Next Door!
           </h2>
           <div className="w-14 h-[2px] bg-[#a16a52]" />

@@ -17,7 +17,7 @@ export default function Hero() {
           <h1 className="text-sm tracking-widest uppercase">
             WELCOME TO TITLE CAFE
           </h1>
-          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl  leading-tight">
+          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl leading-tight">
             Where your day starts <br /> & ends
           </h1>
           <button className="self-start border border-white px-8 py-3 text-sm uppercase tracking-wide hover:bg-white hover:text-black transition">

@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Weserve() {
   return (
-    <section className="relative w-full min-h-[550px] md:min-h-[500px] lg:min-h-[600px] font-serif overflow-hidden">
+    <section className="relative w-full min-h-[550px] md:min-h-[500px] lg:min-h-[600px]  overflow-hidden">
       {/* Split Background */}
       <div className="absolute inset-0 z-0 flex flex-col">
         <div className="flex-1 bg-white" />
